@@ -8,4 +8,4 @@ I'm a Software Engineer; I graduated with a 1st Class Degree in Games Developmen
   
 <!--*I'm passionate about Woodworking--!>
 
-You can learn more about me <a href="https://hrnarf.com">here</a>. <em>(Coming Soon)</em>
+You can learn more about me <a href="https://hrnarf.com/about">here</a>.
