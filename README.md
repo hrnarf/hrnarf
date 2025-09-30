@@ -1,4 +1,4 @@
-I'm Haroon, a Technical Specialist at Kit (formerly ConvertKit).
+I'm Haroon, a Technical Specialist at Zapier.
 
 Typescript, Python, Swift
 
