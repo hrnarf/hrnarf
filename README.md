@@ -1,6 +1,6 @@
 I'm Haroon, a Technical Specialist at Zapier.
 
-Typescript, Python, Swift
+Focused on building with AI. 
 
 <ul>
   <li>📧 <a href="mailto:hello@hrnarf.com">Email me<a/></li>
